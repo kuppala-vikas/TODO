@@ -16,9 +16,7 @@ A modern and interactive TODO list application built using **HTML, CSS, and Java
 - **CSS** – Styling with gradients, animations, and effects
 - **JavaScript** – Dynamic task handling and interactivity
 
-## 📸 Preview
 
-![TODO List Screenshot](https://via.placeholder.com/800x400?text=TODO+List+Preview)
 
 ## 🛠 Installation
 
